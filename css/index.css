@@ -11,7 +11,7 @@ element.style
 {
 	background-attachment:fixed;
 	background-size:contain;
-	height:100%;
+	height:100%;	
 }
 
 .quote
@@ -84,11 +84,6 @@ element.style
 	text-align: left;
 }
 
-element.style
-{
-	
-}
-
 #main_footer
 {
 	background-color:#efeff2;
@@ -96,8 +91,7 @@ element.style
 	position:absolute;	
 }
 
-*
-{
+*{
 	box-sizing:border-box;
 }
 
