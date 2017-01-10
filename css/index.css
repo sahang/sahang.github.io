@@ -1,0 +1,120 @@
+body, html
+element.style
+{
+	
+} 
+.index_page
+{
+	background-position:center;
+}
+.index_page
+{
+	background-attachment:fixed;
+	background-size:contain;
+	height:100%;
+}
+
+.quote
+{
+	text-align:center;
+	width:50%;
+	margin:auto;
+}
+*
+{
+	box-sizing:border-box;
+}
+div
+{
+	display:block;
+}
+{
+	margin:1%;
+	font: 1em "Open Sans", sans-serif;
+}
+li
+{
+	font-size:15px;
+} 
+
+.content
+{
+	padding:25px;
+}
+
+.div-main
+{
+	width:100%;
+	background-color:#ffffff;
+	height:40px;
+	color:#3e6b89;
+	font-size:1.0em;
+}
+
+.div-main .logo
+{
+	float:left;
+	height:50px;
+	padding:20px 40px;
+	font-size:1.5em;
+	line-height:50px;
+}
+
+.div-main > ul 
+{
+	margin:1%;
+	padding:0;
+	float:right;
+	list-style-type:none;
+}
+
+.div-item:hover 
+{
+	background-color:#80b9d6;
+}
+
+element.style
+{
+	
+}
+
+.left_p
+{
+	width:100%;
+	text-align: left;
+}
+
+element.style
+{
+	
+}
+
+#main_footer
+{
+	background-color:#efeff2;
+	width:100%;
+	position:absolute;	
+}
+
+*
+{
+	box-sizing:border-box;
+}
+
+div 
+{
+	display:block;
+}
+
+.para 
+{
+	margin-left: 5px;
+	margin-top: fixed;
+	width: 200px;	
+}
+
+#header
+{
+	margin-right: 200px;
+	
+}
