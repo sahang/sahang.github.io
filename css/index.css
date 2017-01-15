@@ -19,18 +19,9 @@ body, html
 	font-size: 25px;
 }
 
-*{
-	box-sizing:border-box;
-}
-
 div
 {
 	display:block;
-}
-
-{
-	margin:1%;
-	font: 1em "Open Sans", sans-serif;
 }
 
 li
@@ -90,10 +81,6 @@ element.style
 	
 }
 
-*{
-	box-sizing:border-box;
-}
-
 div 
 {
 	display:block;
@@ -111,7 +98,6 @@ div
 	border: 1px grey;
 	color: grey;
 	padding: 15px;
-	margin: middle;
 	text-align: center;
 	font-size: 20px;
 }
@@ -121,7 +107,6 @@ div
 	border: 2px grey;
 	color: grey;
 	padding: 15px;
-	margin: middle;
 	text-align: center;
 }
 
@@ -138,23 +123,17 @@ div
 	height: 40px;
 }
 
-{
-	box-sizing: border-box;
-}
-
 .menu
 {
 	width: 15%;
 	float: right;
 	padding: 10px;
-	border: 2px white-space;
 }
 main
 {
 	width: 85%;
 	float: right;
 	padding: 10px;
-	border: 2px white-space;
 }
 img
 {
@@ -178,8 +157,6 @@ ul
 		overflow: hidden;
 		border: 1px solid #e7e7e7;
 		background-color: #f3f3f3;
-		
-		
 }
 
 li
@@ -217,7 +194,7 @@ li a.active
     content: "";
     clear: both;
     display: block;
-	margin:50%;
+     margin:50%;
 }
 .col-3
 {
@@ -248,9 +225,7 @@ li a.active
 	text-align:right;
 	left:0;
 	position:absolute;
-	margin-top: fixed;
 }
-
 
 /* For desktop: */
 .col-1 {width: 8.33%;}
@@ -271,16 +246,6 @@ li a.active
     [class*="col-"] {
         width: 100%;
     }
-}
-
-
-{
-	text-align:left;
-	left:0;
-	width:50%;
-	position:absolute;
-	margin-top: 10%;
-	margin-left:5%;
 }
 
 .left_descript
