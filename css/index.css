@@ -370,3 +370,11 @@ li a.active
 {
 	margin:15px;
 }
+
+#map 
+{
+    width: 600px;
+    height: 600px;
+    display: table;
+    margin: 0 auto;
+}
