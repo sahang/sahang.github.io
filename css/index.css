@@ -163,7 +163,7 @@ img
 		border-radius: 20px;
 		display: inline-block;
 		transition: 0.4s;
-		
+		width: 100%;
 }
 img:hover 
 {
