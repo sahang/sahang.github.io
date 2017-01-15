@@ -371,8 +371,7 @@ li a.active
 	margin:15px;
 }
 
-#map 
-{
+#map {
     width: 600px;
     height: 600px;
     display: table;
